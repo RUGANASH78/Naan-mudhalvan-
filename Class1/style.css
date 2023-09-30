@@ -1,0 +1,32 @@
+body, h1, h2, p, ul, li { 
+     margin: 0; 
+     padding: 0; 
+ } 
+  
+ body { 
+     transition: background-color 1s ease;  
+ } 
+  
+ .navbar { 
+     background-color: #353839;  
+     color: white;  
+     padding: 10px; 
+ } 
+  
+  
+ header { 
+     background-color: #a9a9a9; 
+     color: white; 
+     text-align: center; 
+     padding: 10px ; 
+ } 
+  
+  
+ .white-box { 
+     background-color: white; 
+     padding: 20px;  
+     border-radius: 10px;  
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);  
+     display: inline-block; /*inline block converts box to content size*/ 
+ }
+ 
